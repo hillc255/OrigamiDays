@@ -7,7 +7,7 @@ OrigamiDays is an Android app card created in Android Studio.
 
 Screenshot of the card follows:
 
-![Android card](https://github.com/hillc255/ScienceQuiz/blob/master/app/src/main/res/drawable/origami2.png)
+![Android card](https://github.com/hillc255/OrigamiDays/blob/master/app/src/main/res/drawable/origami2.png)
 
 
 ## Motivation
