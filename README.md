@@ -1,7 +1,9 @@
 
+#  Origami Days
+
 ## Synopsis
 
-OrigamiDays is an Android app card created in Android Studio. 
+Origami Days is an Android app card created in Android Studio. 
 
 ## Code Example
 
