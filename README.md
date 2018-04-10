@@ -14,7 +14,8 @@ Screenshot of the card follows:
 
 ## Motivation
 
-This was an exercise in creating a static Android app card.
+This was the first exercise in the "Grow with Google 2018 Android Basic Development" program with Udacity.  
+The purpose of the exercise was to create a static Android app card.
 
 ## Installation
 
